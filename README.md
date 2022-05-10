@@ -1,10 +1,8 @@
 This project was prepared by:
 
-Ahmet Martin Gökçü 10716652
-
-Jody Roberto Battistini 10691667
-
-Matteo Barin 10618370
+- Ahmet Martin Gökçü 10716652
+- Jody Roberto Battistini 10691667
+- Matteo Barin 10618370
 
 All the calibrations were done manually you can switch to the calibrated vlues for each bag by uncommenting the variables that are indicated for the corrisponding bags number. Also the quaternions for the world frame for each bag is present in the project.launch file all the quaternions are indicated with their corrisponding bags number. The structure of the TF tree is present in the frames.pdf file the structure of the tree was obtained by using rosrun tf view_frames
 
